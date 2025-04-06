@@ -1,6 +1,6 @@
 # Deep Learning Project
 
-This project is focused on deep learning and aims to [briefly describe the goal or purpose of the project].
+This project is focused on deep learning and aims to plan the route of the robot.
 
 ## Table of Contents
 
@@ -23,18 +23,15 @@ This project is focused on deep learning and aims to [briefly describe the goal 
     pip install -r requirements.txt
     ```
 
-3. [Add any additional installation steps or requirements specific to your project]
 ## Robot
 1. id
-2. prędkość 
-3. pojemność
-4. lista elementów do przewiezienia
+2. velocity
+3. volumn
+4. list of products to gather
 
 ## Node
 1. id
-2. waga pojedyńczego elementu
+2. weight of single element
 
 # Lista_zakpowa
-1. prdukty, id prduktu, ilość id każdego produku 
-2. 
-
+1. product, product id, amount of product
